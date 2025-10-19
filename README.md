@@ -4,10 +4,6 @@ A Jupyter notebook that creates secure SSH access to Kaggle notebook environment
 
 Kaggle provides (for free) a generous VM server of 4 CPU cores, 32GB RAM, and the ability to attach 2x T4 GPUs, a P100, or a TPU. This notebook allows you to use that VM as a GPU dev server via SSH. Ollama is included.
 
-## Content Creators / Sharing Notice
-
-Please do not share this repo on X, YouTube, etc. This repo is intended for Discord warriors. Share it on your Discord server, np.
-
 ## Features
 
 - 🔐 **Secure SSH Access**: Dedicated user with SSH key authentication
